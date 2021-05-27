@@ -1,7 +1,7 @@
 import pytest
 from selenium import webdriver
 
-link = "http://selenium1py.pythonanywhere.com/"
+link = "https://my.zanichelli.it/"
 
 
 @pytest.fixture(scope="function")
